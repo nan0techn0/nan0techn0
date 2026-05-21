@@ -8,23 +8,16 @@
 
 ###
 
-> First-year Mechanical Engineering and Physics student at UTS. Building a foundation in Python and machine learning alongside my degree, with a long-term interest in applying ML to physics and scientific computing. Currently working through CS50P certificate.
+First-year Mechanical Engineering and Physics student at UTS. Building a foundation in Python and machine learning alongside my degree, with a long-term interest in applying ML to physics and scientific computing. Currently working through CS50P certificate.
 
 ###
 
 <h2 align="left">Focus areas</h2>
 
 ###
-
-> Machine learning
-> Python for scientific computing
-> Physics simulation
-
-###
-
-<h4 align="left">Learning these languages, libraries, and tools:</h4>
-
-###
+➤ Machine learning <br>
+➤ Python for scientific computing <br>
+➤ Physics simulation
 
 <div align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
