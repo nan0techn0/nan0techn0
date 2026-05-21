@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://cdn.corenexis.com/files/c/6277863720.png"  />
+  <img height="250" src="https://cdn.corenexis.com/files/c/6277863720.png"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> First-year Mechanical Engineering and Physics student at UTS. Building a foundation in Python and machine learning alongside my degree, with a long-term interest in applying ML to physics and scientific computing. Currently working through CS50P certificate.</p>
+> First-year Mechanical Engineering and Physics student at UTS. Building a foundation in Python and machine learning alongside my degree, with a long-term interest in applying ML to physics and scientific computing. Currently working through CS50P certificate.
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">Machine learning <br>Python for scientific computing <br>Physics simulation</p>
+> Machine learning
+> Python for scientific computing
+> Physics simulation
 
 ###
 
