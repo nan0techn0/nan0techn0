@@ -26,8 +26,7 @@
 
 ### 🛠️ Tech & Tools
 
-*   **Languages:** Python (Active Development)
-*   **In Progress:** CS50P Certification
+*   **Learning how to use:**
 
 <div align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
