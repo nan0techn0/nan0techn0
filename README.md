@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="250" src="https://cdn.corenexis.com/files/c/3941685720.png"  />
-</div>
-
 ###
 # Hi there, I'm Aaron Iosif 👋
 
@@ -10,7 +6,7 @@
 
 ### 🚀 About Me
 
-*   **Current Focus:** Working through Harvard's **CS50**
+*   **Current Focus:** Python and C++
 *   **Long term Focus:** Apply machine learning to physics simulations, advanced scientific calculations, and create interesting projects.
 *   **My belief:** I believe that hard work beats talent that fails to work hard, and that anyone can get great at anything if they're passionate about it, and dedicated. 
 
@@ -27,7 +23,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="40" alt="C++ logo" />
+  <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" height="40" alt="C++ logo" />
   <img width="12" />
 
 ---
